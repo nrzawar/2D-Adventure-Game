@@ -1,2 +1,2 @@
 # 2D-Adventure-Game
-A 2D adventure game developed entirely in Java 
+To play the game, Run the Main.java file in the 'src' folder under the 'main' package.
